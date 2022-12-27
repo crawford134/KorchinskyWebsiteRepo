@@ -5,9 +5,7 @@ export default function Home() {
   return (
     <section className="home" id="home">
       <div className="home-text">
-        <h1>
-          Welcome to Korchinsky.com
-        </h1>
+        <h1>Welcome to Korchinsky.com</h1>
       </div>
       <Animate
         play
