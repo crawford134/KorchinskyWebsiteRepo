@@ -114,11 +114,14 @@
     }
 }
 @keyframes typing {
-  from {
+  0% {
     width: 0;
   }
-  to {
-    width: 25.25ch;
+  50% {
+    width: 50%;
+  }
+  100%{
+    width: 100%;
   }
 }
 @keyframes blink {
