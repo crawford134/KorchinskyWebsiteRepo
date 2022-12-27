@@ -29,11 +29,11 @@ function App() {
             theme={theme}
           />
           <Routes>
-            <Route path="/" index element={<Home />} />
-            <Route path="/about" element={<AboutUs />} exact />
-            <Route path="/gallery" element={<Gallery />} exact />
-            <Route path="/blog" element={<Blog />} exact />
-            <Route path="/contact" element={<Contact />} exact />
+            <Route path="/KorchinskyWebsiteRepo/" index element={<Home />} />
+            <Route path="/KorchinskyWebsiteRepo/about" element={<AboutUs />} exact />
+            <Route path="/KorchinskyWebsiteRepo/gallery" element={<Gallery />} exact />
+            <Route path="/KorchinskyWebsiteRepo/blog" element={<Blog />} exact />
+            <Route path="/KorchinskyWebsiteRepo/contact" element={<Contact />} exact />
           </Routes>
         </main>
       </React.Fragment>
