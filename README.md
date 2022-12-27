@@ -14,6 +14,7 @@ npm run start
 ```
 npm run deploy
 ```
+Make sure that the HomePage Element in the Package.json is set to either the Custom URL or `https://<Github Username>.github.io/<Repo Name>` 
 
 ## Imports 
 
