@@ -10,7 +10,7 @@
   --selected-theme-sub-text-color3: var(--dark-theme-sub-text-color3);
   --selected-theme-sub-text-color4: var(--dark-theme-sub-text-color4);
   --selected-theme-header-background-color: var(--dark-theme-header-background-color);
-  --selected-theme-header-border-color: var(--dark-theme-border-color);
+  --selected-theme-header-border-color: var(--dark-theme-header-border-color);
 
   /* Dark Theme Colors */
   --dark-theme-background-color: #002c5c;
@@ -22,7 +22,7 @@
   --dark-theme-sub-text-color3: #fff; /* Colours that Change between Themes*/
   --dark-theme-sub-text-color4: #000;
   --dark-theme-header-background-color: #00428a;
-  --dark-theme-header-border-color: #282828;
+  --dark-theme-header-border-color: #e0a500;
 
   /* Light Theme Colors */
   --light-theme-background-color: #fffae0;
@@ -34,7 +34,7 @@
   --light-theme-sub-text-color3: #000; /* Colours that Change between Themes*/
   --light-theme-sub-text-color4: #fff;
   --light-theme-header-background-color: #FFD700;
-  --light-theme-header-border-color: #b5b5b5;
+  --light-theme-header-border-color: #00428a;
 
   --font-base: "Roboto Slab", serif
 }
