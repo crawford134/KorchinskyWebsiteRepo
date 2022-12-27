@@ -16,7 +16,7 @@ export default function Header() {
     <div>
       <nav className={location.pathname==="/" ? "navbar transparent" : "navbar"}>
         <div className="navbar-container">
-            <Link to={"/"} className="navbar-container-logo">
+            <Link to={"/KorchinskyWebsiteRepo/"} className="navbar-container-logo">
                 <Diversity1Icon className="navbar-icon"/>
             </Link>
             <ul className={click ? "navbar-container-menu active transparent" : "navbar-container-menu transparent"}>
