@@ -20,11 +20,11 @@ export default function Header() {
                 <Diversity1Icon className="navbar-icon"/>
             </Link>
             <ul className={click ? "navbar-container-menu active transparent" : "navbar-container-menu transparent"}>
-                <li className="navbar-container-menu-item"><Link to={"/"} className='navbar-container-menu-item-link'>HOME</Link></li> 
-                <li className="navbar-container-menu-item"><Link to={"/about"} className='navbar-container-menu-item-link'>ABOUT US</Link></li> 
-                <li className="navbar-container-menu-item"><Link to={"/gallery"} className='navbar-container-menu-item-link'>GALLERY</Link></li> 
-                <li className="navbar-container-menu-item"><Link to={"/blog"} className='navbar-container-menu-item-link'>BLOG</Link></li> 
-                <li className="navbar-container-menu-item"><Link to={"/contact"} className='navbar-container-menu-item-link'>CONTACT US</Link></li> 
+                <li className="navbar-container-menu-item"><Link to={"/KorchinskyWebsiteRepo/"} className='navbar-container-menu-item-link'>HOME</Link></li> 
+                <li className="navbar-container-menu-item"><Link to={"/KorchinskyWebsiteRepo/about"} className='navbar-container-menu-item-link'>ABOUT US</Link></li> 
+                <li className="navbar-container-menu-item"><Link to={"/KorchinskyWebsiteRepo/gallery"} className='navbar-container-menu-item-link'>GALLERY</Link></li> 
+                <li className="navbar-container-menu-item"><Link to={"/KorchinskyWebsiteRepo/blog"} className='navbar-container-menu-item-link'>BLOG</Link></li> 
+                <li className="navbar-container-menu-item"><Link to={"/KorchinskyWebsiteRepo/contact"} className='navbar-container-menu-item-link'>CONTACT US</Link></li> 
             </ul>
             <div className="navbar-container-icon" onClick={handleClick}>
             { 
