@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function Resume() {
+export default function Gallery() {
   return (
-    <div>Resume</div>
+    <div>Gallery</div>
   )
 }
