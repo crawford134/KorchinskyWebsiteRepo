@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/KorchinskyWebsiteRepo/static/css/main.4f8b898e.css",
-    "main.js": "/KorchinskyWebsiteRepo/static/js/main.a0690846.js",
+    "main.js": "/KorchinskyWebsiteRepo/static/js/main.4a8e0fb4.js",
     "index.html": "/KorchinskyWebsiteRepo/index.html",
     "main.4f8b898e.css.map": "/KorchinskyWebsiteRepo/static/css/main.4f8b898e.css.map",
-    "main.a0690846.js.map": "/KorchinskyWebsiteRepo/static/js/main.a0690846.js.map"
+    "main.4a8e0fb4.js.map": "/KorchinskyWebsiteRepo/static/js/main.4a8e0fb4.js.map"
   },
   "entrypoints": [
     "static/css/main.4f8b898e.css",
-    "static/js/main.a0690846.js"
+    "static/js/main.4a8e0fb4.js"
   ]
 }
